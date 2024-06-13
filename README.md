@@ -13,4 +13,4 @@ ahead-of-print, no. ahead-of-print, 2024.*
 _O. Malla and M. Shanmugavel, "Task Allocation in a Multi-Robot System Using RRT* Algorithm," 2024 International Conference on Recent Advances in Electrical, Electronics, Ubiquitous Communication, and Computational Intelligence (RAEEUCCI), Chennai, India, 2024, pp. 1-5, doi: 10.1109/RAEEUCCI61380.2024.10547978._
 
 The code is based on the Matlab code:
-SAI VEMPRALA (2024). 2D/3D RRT* algorithm (https://www.mathworks.com/matlabcentral/fileexchange/60993-2d-3d-rrt-algorithm), MATLAB Central File Exchange. Retrieved June 13, 2024.
+_SAI VEMPRALA (2024). 2D/3D RRT* algorithm (https://www.mathworks.com/matlabcentral/fileexchange/60993-2d-3d-rrt-algorithm), MATLAB Central File Exchange. Retrieved June 13, 2024._
